@@ -11,6 +11,6 @@ int sum(int a, int b){
     return a + b;
  }
 
- float avg(int a, int b){
-    return sum(a, b)/2;
+float avg(int a, int b){
+    return (float)(sum(a, b))/2;
  }
