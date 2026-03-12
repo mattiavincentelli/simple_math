@@ -14,3 +14,5 @@ int sum(int a, int b){
 float avg(int a, int b){
     return (float)(sum(a, b))/2;
  }
+
+ 
